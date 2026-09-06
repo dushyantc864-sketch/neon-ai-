@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Neon AI",
+  "description": "ChatGPT-style mobile AI assistant for the Neon custom model, powered by Gemma fine-tuning with Google Drive dataset integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
